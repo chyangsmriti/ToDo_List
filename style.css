@@ -65,7 +65,7 @@ body{
 }
 
 .buttoninput:hover {
-    background-color: #2c6c0c;
+    background-color: #1251a9;
     color: white;
 }
 
@@ -78,8 +78,7 @@ body{
     grid-template-columns: 60% 5% 5%;
     justify-content: center;
     margin-bottom: 2px;
-    
-    
+ 
 }
 
 .item, .check-button, .trash-button {
